@@ -1,1 +1,0 @@
-This me making a School API starting from scratch.
